@@ -10,6 +10,7 @@ import {
 } from "./container/index";
 
 import { Navbar } from "./components/index";
+import "./App.scss";
 
 const App = () => {
   return (
